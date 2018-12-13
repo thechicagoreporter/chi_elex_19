@@ -1,0 +1,242 @@
+JrsID,PtyOrd,CndTyp,OffBalOrd,OffExt,OffTyp,OffNme,OffMsg1,OffIde,DstNme,DstHdr,PtyNme,CndID,CndNme,RunMteBalNme,ResAdd1,BalTag,CndStsCde,CndOrd,TgtBalIde,FlgDte,FlgOrd,CndStsID,DstID,CndShtDsplyNme,CndShtDsplyNme2,CndShtDsplyNme3,Elect,Party
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,18,JERRY JOYCE,,,,F,1,,2018-11-19T09:00:00,52,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,13,PAUL VALLAS,,,,F,2,,2018-11-19T09:00:00,46,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,1,WILLIE L. WILSON,,,,F,3,,2018-11-19T09:00:00,12,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,7,TONI PRECKWINKLE,,,,F,4,,2018-11-19T09:00:00,38,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,105,CATHERINE BROWN D'TYCOON,,,,*,5,,2018-11-19T09:00:00,75,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,126,CONRIEN HYKES CLARK,,,,*,6,,2018-11-23T14:54:00,0,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,129,WILLIAM M. DALEY,,,,*,7,,2018-11-26T09:04:00,0,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,133,GARRY MCCARTHY,,,,*,8,,2018-11-26T09:11:00,0,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,132,DOROTHY A. BROWN COOK,,,,*,9,,2018-11-26T09:13:00,0,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,134,GERY CHICO,,,,F,10,,2018-11-26T09:28:00,0,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,157,SANDRA L. MALLORY,,,,F,11,,2018-11-26T13:38:00,0,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,159,SUSANA A. MENDOZA,,,,*,12,,2018-11-26T15:02:00,0,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,158,AMARA ENYIA,,,,F,13,,2018-11-26T15:20:00,0,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,238,RICHARD MAYERS,,,,*,14,,2018-11-26T17:00:00,66,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,197,ROGER L. WASHINGTON,,,,*,15,,2018-11-26T17:00:00,61,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,167,LA SHAWN K. FORD,,,,*,16,,2018-11-26T17:00:00,1,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,170,NEAL SÁLES-GRIFFIN,,,,*,17,,2018-11-26T17:00:00,10,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,175,LORI LIGHTFOOT,,,,*,18,,2018-11-26T17:00:00,17,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,220,"ROBERT ""BOB"" FIORETTI",,,,F,19,,2018-11-26T17:00:00,45,116,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,228,JA'MAL GREEN,,,,*,20,,2018-11-26T17:00:00,50,667,33992,,,,one,NonPartisan
+3289,12,0,0,100001,Municipal,For Mayor,,,City Of Chicago,,NonPartisan,224,JOHN KENNETH KOZLAR,,,,F,21,,2018-11-26T17:00:00,43,116,33992,,,,one,NonPartisan
+3289,12,0,0,100002,Municipal,For City Clerk,,,City Of Chicago,,NonPartisan,11,ANNA M. VALENCIA,,,,*,1,,2018-11-19T09:00:00,23,667,33992,,,,one,NonPartisan
+3289,12,0,0,100002,Municipal,For City Clerk,,,City Of Chicago,,NonPartisan,14,PATRICIA HORTON,,,,*,2,,2018-11-19T09:00:00,1,667,33992,,,,one,NonPartisan
+3289,12,0,0,100002,Municipal,For City Clerk,,,City Of Chicago,,NonPartisan,205,"ELIZABETH ""BETTY"" ARIAS-IBARRA",,,,*,3,,2018-11-26T17:00:00,52,667,33992,,,,one,NonPartisan
+3289,12,0,0,100002,Municipal,For City Clerk,,,City Of Chicago,,NonPartisan,239,RICHARD MAYERS,,,,W,4,,2018-11-26T17:00:00,66,121,33992,,,,one,NonPartisan
+3289,12,0,0,100003,Municipal,For City Treasurer,,,City Of Chicago,,NonPartisan,74,MELISSA CONYEARS-ERVIN,,,,*,1,,2018-11-19T09:00:00,105,667,33992,,,,one,NonPartisan
+3289,12,0,0,100003,Municipal,For City Treasurer,,,City Of Chicago,,NonPartisan,179,AMEYA PAWAR,,,,*,2,,2018-11-26T17:00:00,51,667,33992,,,,one,NonPartisan
+3289,12,0,0,100003,Municipal,For City Treasurer,,,City Of Chicago,,NonPartisan,172,PETER GARIEPY,,,,*,3,,2018-11-26T17:00:00,20,667,33992,,,,one,NonPartisan
+3289,12,0,0,100003,Municipal,For City Treasurer,,,City Of Chicago,,NonPartisan,240,RICHARD MAYERS,,,,W,4,,2018-11-26T17:00:00,66,121,33992,,,,one,NonPartisan
+3289,12,0,0,200001,Ward,For Alderman 1st Ward,,,1st,1,NonPartisan,36,"PROCO ""JOE"" MORENO",,1330 North Leavitt Street,,F,1,,2018-11-19T09:00:00,25,116,33907,,,,one,NonPartisan
+3289,12,0,0,200001,Ward,For Alderman 1st Ward,,,1st,1,NonPartisan,64,DANIEL LA SPATA,,"2240 N. Campbell Ave., Unit 2",,*,2,,2018-11-19T09:00:00,61,667,33907,,,,one,NonPartisan
+3289,12,0,0,200001,Ward,For Alderman 1st Ward,,,1st,1,NonPartisan,243,JUSTIN TUCKER,,2841 West Armitage Avenue,,*,3,,2018-11-26T13:26:00,0,667,33907,,,,one,NonPartisan
+3289,12,0,0,200001,Ward,For Alderman 1st Ward,,,1st,1,NonPartisan,169,TREVOR JOSEPH GRANT,,2638 West Belden Ave.,,*,4,,2018-11-26T15:56:00,0,667,33907,,,,one,NonPartisan
+3289,12,0,0,200002,Ward,For Alderman 2nd Ward,,,2nd,2,NonPartisan,85,BRIAN HOPKINS,,2328 North Lakewood Avenue,,F,1,,2018-11-19T10:21:00,0,116,33908,,,,one,NonPartisan
+3289,12,0,0,200003,Ward,For Alderman 3rd Ward,,,3rd,3,NonPartisan,114,"PATRICIA ""PAT"" DOWELL",,"4414 S. Martin Luther King, Jr. Drive",,F,1,,2018-11-19T09:00:00,78,116,33909,,,,one,NonPartisan
+3289,12,0,0,200003,Ward,For Alderman 3rd Ward,,,3rd,3,NonPartisan,119,ALEXANDRIA WILLIS,,4955 S Michigan Avenue Unit 3,,F,2,,2018-11-19T12:23:00,0,116,33909,,,,one,NonPartisan
+3289,12,0,0,200003,Ward,For Alderman 3rd Ward,,,3rd,3,NonPartisan,145,LEALAN M. JONES,,4712 S. St. Lawrence Avenue,,*,3,,2018-11-26T12:06:00,0,667,33909,,,,one,NonPartisan
+3289,12,0,0,200003,Ward,For Alderman 3rd Ward,,,3rd,3,NonPartisan,155,ANDRE S. LOVE,,2001 South Michigan Avenue,,*,4,,2018-11-26T13:45:00,0,667,33909,,,,one,NonPartisan
+3289,12,0,0,200003,Ward,For Alderman 3rd Ward,,,3rd,3,NonPartisan,219,DARVA WATKINS,,4203 S Prairie Avenue,,*,5,,2018-11-26T17:00:00,59,667,33909,,,,one,NonPartisan
+3289,12,0,0,200004,Ward,For Alderman 4th Ward,,,4th,4,NonPartisan,98,SOPHIA KING,,4957 S. Woodlawn Avenue,,F,1,,2018-11-19T09:00:00,115,116,33910,,,,one,NonPartisan
+3289,12,0,0,200004,Ward,For Alderman 4th Ward,,,4th,4,NonPartisan,72,EBONY D. LUCAS,,4138 South Ellis Avenue,,*,2,,2018-11-19T09:00:00,114,667,33910,,,,one,NonPartisan
+3289,12,0,0,200005,Ward,For Alderman 5th Ward,,,5th,5,NonPartisan,81,LESLIE A. HAIRSTON,,6858 South Chappel Avenue,,F,1,,2018-11-19T09:00:00,111,116,33911,,,,one,NonPartisan
+3289,12,0,0,200005,Ward,For Alderman 5th Ward,,,5th,5,NonPartisan,168,WILLIAM CALLOWAY,,6700 South Oglesby Avenue Apartment 2105,,F,2,,2018-11-26T17:00:00,2,116,33911,,,,one,NonPartisan
+3289,12,0,0,200005,Ward,For Alderman 5th Ward,,,5th,5,NonPartisan,178,SHELLY QUILES,,6720 South Dorchester Avenue,,*,3,,2018-11-26T17:00:00,42,667,33911,,,,one,NonPartisan
+3289,12,0,0,200005,Ward,For Alderman 5th Ward,,,5th,5,NonPartisan,209,GABRIEL PIEMONTE,,1533 East 65th Street,,*,4,,2018-11-26T17:00:00,35,667,33911,,,,one,NonPartisan
+3289,12,0,0,200006,Ward,For Alderman 6th Ward,,,6th,6,NonPartisan,93,RODERICK T. SAWYER,,7229 South Prairie Avenue,,F,1,,2018-11-19T09:00:00,82,116,33912,,,,one,NonPartisan
+3289,12,0,0,200006,Ward,For Alderman 6th Ward,,,6th,6,NonPartisan,152,RICHARD A. WOOTEN,,649 East 89th Place,,F,2,,2018-11-26T12:58:00,0,116,33912,,,,one,NonPartisan
+3289,12,0,0,200006,Ward,For Alderman 6th Ward,,,6th,6,NonPartisan,185,DEBORAH A. FOSTER-BONNER,,8137 South Eberhart Avenue,,F,3,,2018-11-26T17:00:00,40,116,33912,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,97,GREGORY I. MITCHELL,,2113 East 93rd Street,,F,1,,2018-11-19T09:00:00,66,116,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,125,CHARLES KYLE,,7344 S. Crandon Ave.,,*,2,,2018-11-23T10:41:00,0,667,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,153,KIM CURTIS,,"7514 S. Phillips Ave., 3rd Fl.",,*,3,,2018-11-26T12:28:00,0,667,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,160,"FLORA ""FLO"" DIGBY",,7942 South Luella Avenue,,*,4,,2018-11-26T14:16:00,0,667,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,164,CLARENCE DAVIDSON,,9101 S. Crandon Ave,,*,5,,2018-11-26T15:14:00,0,667,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,203,JEDIDIAH L. BROWN,,9716 South Chappel Avenue,,*,6,,2018-11-26T17:00:00,44,667,33913,,,,one,NonPartisan
+3289,12,0,0,200007,Ward,For Alderman 7th Ward,,,7th,7,NonPartisan,225,"SHARON ""SY"" LEWIS",,7842 South Marquette Avenue,,*,7,,2018-11-26T17:00:00,33,667,33913,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,69,MICHELLE A. HARRIS,,8627 South Constance Avenue,,F,1,,2018-11-19T09:00:00,26,116,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,124,JEWEL R. EASTERLING-SMITH,,9107 South Constance Avenue,,*,2,,2018-11-23T09:11:00,0,667,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,138,LINDA HUDSON,,8332 S. Dante Ave.,,*,3,,2018-11-26T09:08:00,0,667,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,137,SHERRI BOLLING,,8256 S. Kenwood,,*,4,,2018-11-26T09:29:00,0,667,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,141,FAHEEM SHABAZZ,,8311 S. Oglesby Avenue,,*,5,,2018-11-26T10:58:00,0,667,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,221,DIONTE LAWRENCE,,7959 South Bennett Avenue,,*,6,,2018-11-26T17:00:00,34,667,33914,,,,one,NonPartisan
+3289,12,0,0,200008,Ward,For Alderman 8th Ward,,,8th,8,NonPartisan,216,HAROLD BAILEY,,9619 S. University,,*,7,,2018-11-26T17:00:00,65,667,33914,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,99,ANTHONY A. BEALE,,10005 South Prairie Avenue,,F,1,,2018-11-19T09:00:00,113,116,33915,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,22,CLEOPATRA WATSON,,10729 S. Champlain Avenue,,F,2,,2018-11-19T09:00:00,9,116,33915,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,118,MARCIA BROWN-WILLIAMS,,10049 South Saint Lawrence Ave.,,*,3,,2018-11-19T10:23:00,0,667,33915,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,202,PAUL COLLINS,,16 East 124th St.,,*,4,,2018-11-26T17:00:00,39,667,33915,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,190,ESSIE HALL,,13346 South Indiana,,*,5,,2018-11-26T17:00:00,23,667,33915,,,,one,NonPartisan
+3289,12,0,0,200009,Ward,For Alderman 9th Ward,,,9th,9,NonPartisan,174,RACHEL WILLIAMS,,"10610 S. Rhodes, Ave",,*,6,,2018-11-26T17:00:00,36,667,33915,,,,one,NonPartisan
+3289,12,0,0,200010,Ward,For Alderman 10th Ward,,,10th,10,NonPartisan,77,SUSAN SADLOWSKI GARZA,,10654 South Avenue G,,F,1,,2018-11-19T09:00:00,110,116,33916,,,,one,NonPartisan
+3289,12,0,0,200010,Ward,For Alderman 10th Ward,,,10th,10,NonPartisan,63,"ROBERT ""BOBBY"" LONCAR",,10954 S. Avenue B,,F,2,,2018-11-19T09:00:00,94,116,33916,,,,one,NonPartisan
+3289,12,0,0,200010,Ward,For Alderman 10th Ward,,,10th,10,NonPartisan,213,YESSENIA CARREÓN,,11213 S. Green Bay Ave.,,*,3,,2018-11-26T17:00:00,18,667,33916,,,,one,NonPartisan
+3289,12,0,0,200011,Ward,For Alderman 11th Ward,,,11th,11,NonPartisan,30,PATRICK DALEY THOMPSON,,3536 South Lowe Avenue,,F,1,,2018-11-19T09:00:00,42,116,33917,,,,one,NonPartisan
+3289,12,0,0,200011,Ward,For Alderman 11th Ward,,,11th,11,NonPartisan,102,DAVID MIHALYFY,,"3211 S. Lowe Ave., Apt. 1F",,F,2,,2018-11-19T09:00:00,102,116,33917,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,4,GEORGE CARDENAS,,2323 W. Pershing Road #503,,F,1,,2018-11-19T09:00:00,33,116,33918,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,84,SAMUEL ALCANTAR,,3333 S. Ashland,,*,2,,2018-11-19T09:00:00,89,667,33918,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,162,FRANCISCO NUNEZ SR,,2608 W. 25th Street,,*,3,,2018-11-26T14:44:00,0,667,33918,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,217,PETE DEMAY,,3709 S. Honore Street,,*,4,,2018-11-26T17:00:00,32,667,33918,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,229,MARTHA YERANIA RANGEL,,3234 S. Hoyne Ave,,*,5,,2018-11-26T17:00:00,53,667,33918,,,,one,NonPartisan
+3289,12,0,0,200012,Ward,For Alderman 12th Ward,,,12th,12,NonPartisan,222,JOSE RICO,,2441 S. Francisco,,*,6,,2018-11-26T17:00:00,16,667,33918,,,,one,NonPartisan
+3289,12,0,0,200013,Ward,For Alderman 13th Ward,,,13th,13,NonPartisan,10,MARTY QUINN,,5843 S. Normandy Ave.,,F,1,,2018-11-19T09:00:00,24,116,33919,,,,one,NonPartisan
+3289,12,0,0,200013,Ward,For Alderman 13th Ward,,,13th,13,NonPartisan,121,DAVID J. KRUPA,,5840 W. 64th Place,,*,2,,2018-11-20T10:10:00,0,667,33919,,,,one,NonPartisan
+3289,12,0,0,200014,Ward,For Alderman 14th Ward,,,14th,14,NonPartisan,35,JOSE TORREZ,,4936 S. Kildare,,F,1,,2018-11-19T09:00:00,6,116,33920,,,,one,NonPartisan
+3289,12,0,0,200014,Ward,For Alderman 14th Ward,,,14th,14,NonPartisan,19,EDWARD M. BURKE,,3914 W. 51st Street,,F,2,,2018-11-19T09:00:00,48,116,33920,,,,one,NonPartisan
+3289,12,0,0,200014,Ward,For Alderman 14th Ward,,,14th,14,NonPartisan,150,JAIME GUZMAN,,"5511 South Whipple St, #10",,F,3,,2018-11-26T12:31:00,0,116,33920,,,,one,NonPartisan
+3289,12,0,0,200014,Ward,For Alderman 14th Ward,,,14th,14,NonPartisan,154,IRENE CORRAL,,5227 South Menard,,*,5,,2018-11-26T13:28:00,0,667,33920,,,,one,NonPartisan
+3289,12,0,0,200014,Ward,For Alderman 14th Ward,,,14th,14,NonPartisan,232,TANYA G. PATINO,,4450 S Karlov Avenue,,*,6,,2018-11-26T17:00:00,57,667,33920,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,12,JOSEPH G. WILLIAMS,,6405 South Wolcott Avenue,,*,1,,2018-11-19T09:00:00,3,667,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,83,JOEL RIOJAS,,1902 West 48th Street,,*,2,,2018-11-19T09:00:00,88,667,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,65,"RAFAEL ""RAFA"" YANEZ",,2141 West 49th Place,,*,3,,2018-11-19T09:00:00,59,667,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,45,RAYMOND A. LOPEZ,,4322 S. Artesian Avenue,,F,4,,2018-11-19T09:00:00,55,116,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,20,BERTO AGUAYO,,4822 S. Honore St.,,*,5,,2018-11-19T09:00:00,8,667,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,165,DEBORAH LANE,,1751 W. 55th Street,,*,6,,2018-11-26T14:40:00,0,667,33921,,,,one,NonPartisan
+3289,12,0,0,200015,Ward,For Alderman 15th Ward,,,15th,15,NonPartisan,206,"OTIS DAVIS, JR.",,2038 West 51st Street,,*,7,,2018-11-26T17:00:00,0,667,33921,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,8,STEPHANIE D. COLEMAN,,6200 South Ada Street,,F,1,,2018-11-19T09:00:00,13,116,33922,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,39,LATASHA M. SANDERS,,5334 South Paulina Street,,*,2,,2018-11-19T09:00:00,22,667,33922,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,16,KENNY C. DOSS II,,6045 South Morgan Street,,*,3,,2018-11-19T09:00:00,4,667,33922,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,48,TONI L. FOULKES,,6704 South Wood Street,,*,4,,2018-11-19T09:00:00,16,667,33922,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,103,JEFFREY L. LEWIS,,6235 South Ada Street,,*,5,,2018-11-19T09:00:00,90,667,33922,,,,one,NonPartisan
+3289,12,0,0,200016,Ward,For Alderman 16th Ward,,,16th,16,NonPartisan,231,EDDIE JOHNSON III,,6412 S. Aberdeen St.,,*,6,,2018-11-26T17:00:00,56,667,33922,,,,one,NonPartisan
+3289,12,0,0,200017,Ward,For Alderman 17th Ward,,,17th,17,NonPartisan,2,DAVID H. MOORE,,2318 West 71st Street,,F,1,,2018-11-19T09:00:00,14,116,33923,,,,one,NonPartisan
+3289,12,0,0,200017,Ward,For Alderman 17th Ward,,,17th,17,NonPartisan,110,RAYNETTA GREENLEAF,,7841 S. Bishop Avenue,,*,2,,2018-11-19T10:18:00,0,667,33923,,,,one,NonPartisan
+3289,12,0,0,200018,Ward,For Alderman 18th Ward,,,18th,18,NonPartisan,92,CHUKS ONYEZIA,,8600 S. Kolmar Ave.,,F,1,,2018-11-19T09:00:00,112,116,33924,,,,one,NonPartisan
+3289,12,0,0,200018,Ward,For Alderman 18th Ward,,,18th,18,NonPartisan,112,DERRICK G. CURTIS,,8208 S. Christiana Ave.,,*,2,,2018-11-19T10:22:00,0,667,33924,,,,one,NonPartisan
+3289,12,0,0,200019,Ward,For Alderman 19th Ward,,,19th,19,NonPartisan,51,MATTHEW J. O'SHEA,,10551 South Maplewood,,F,1,,2018-11-19T09:00:00,31,116,33925,,,,one,NonPartisan
+3289,12,0,0,200019,Ward,For Alderman 19th Ward,,,19th,19,NonPartisan,136,DAVID A. DEWAR,,11347 S. Millard Ave.,,F,2,,2018-11-26T09:13:00,0,116,33925,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,79,JEANETTE B TAYLOR,,6454 South Maryland Ave.,,*,1,,2018-11-19T09:00:00,104,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,31,NICOLE J. JOHNSON,,6505 S. Green St. #2,,*,2,,2018-11-19T09:00:00,36,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,131,MAYA HODARI,,6543 S. Drexel Ave.,,*,3,,2018-11-26T09:15:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,139,KIMETHA HILL,,6501 S Langley Ave #2,,*,4,,2018-11-26T09:16:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,135,CHARLES HILLIARD,,6128 South Ingleside Avenue,,*,5,,2018-11-26T09:35:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,140,CLIFTON PIERCE,,6501 S. Woodlawn,,*,6,,2018-11-26T10:47:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,144,SHEILA R. SCOTT,,6555 South Woodlawn Avenue,,*,7,,2018-11-26T11:06:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,146,JENNIFER O. MADDOX,,803 East 61st Street Unit 207,,*,8,,2018-11-26T11:15:00,0,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,215,CASSIUS L. RUDOLPH,,6307 S. Eggleston Ave. Unit C,,*,9,,2018-11-26T17:00:00,26,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,196,ANDRE SMITH,,6032 South Wabash Avenue,,F,10,,2018-11-26T17:00:00,21,116,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,194,DERNARD D. NEWELL,,6350 Drexel Avenue,,*,11,,2018-11-26T17:00:00,15,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,211,QUANDRA V. SPEIGHTS,,6444 South Drexel Avenue,,*,12,,2018-11-26T17:00:00,11,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,183,KEVIN M. BAILEY,,5944 South Calumet Avenue,,F,13,,2018-11-26T17:00:00,28,116,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,191,"ANTHONY DRIVER, JR.",,850 West 50th Street,,*,14,,2018-11-26T17:00:00,7,667,33926,,,,one,NonPartisan
+3289,12,0,0,200020,Ward,For Alderman 20th Ward,,,20th,20,NonPartisan,214,MATTHEW JOHNSON,,5307 South Emerald Avenue,,*,15,,2018-11-26T17:00:00,60,667,33926,,,,one,NonPartisan
+3289,12,0,0,200021,Ward,For Alderman 21st Ward,,,21st,21,NonPartisan,75,"HOWARD B. BROOKINS, JR.",,9636 South Winston Avenue,,*,1,,2018-11-19T09:00:00,27,667,33927,,,,one,NonPartisan
+3289,12,0,0,200021,Ward,For Alderman 21st Ward,,,21st,21,NonPartisan,127,JULIUS MODELISTE,,"8044 S. Loomis Blvd., 1st Floor",,*,2,,2018-11-23T16:17:00,0,667,33927,,,,one,NonPartisan
+3289,12,0,0,200021,Ward,For Alderman 21st Ward,,,21st,21,NonPartisan,143,MARVIN MCNEIL,,8153 S. Green Street,,*,3,,2018-11-26T09:49:00,0,667,33927,,,,one,NonPartisan
+3289,12,0,0,200021,Ward,For Alderman 21st Ward,,,21st,21,NonPartisan,188,PATRICIA A. FOSTER,,8047 South Laflin Street,,*,4,,2018-11-26T17:00:00,37,667,33927,,,,one,NonPartisan
+3289,12,0,0,200021,Ward,For Alderman 21st Ward,,,21st,21,NonPartisan,235,"JOSEPH C. ZIEGLER, JR.",,8529 South Winchester Ave.,,*,5,,2018-11-26T17:00:00,55,667,33927,,,,one,NonPartisan
+3289,12,0,0,200022,Ward,For Alderman 22nd Ward,,,22nd,22,NonPartisan,109,MICHAEL D. RODRIGUEZ,,2621 S. Kedvale Ave.,,F,1,,2018-11-19T09:00:00,95,116,33928,,,,one,NonPartisan
+3289,12,0,0,200022,Ward,For Alderman 22nd Ward,,,22nd,22,NonPartisan,60,"LISETTE ""LIZ"" LOPEZ",,2824 South Hamlin Ave,,F,2,,2018-11-19T09:00:00,54,116,33928,,,,one,NonPartisan
+3289,12,0,0,200022,Ward,For Alderman 22nd Ward,,,22nd,22,NonPartisan,95,RICHARD JUAREZ,,3053 S. Avers Ave.,,F,3,,2018-11-19T09:00:00,92,116,33928,,,,one,NonPartisan
+3289,12,0,0,200022,Ward,For Alderman 22nd Ward,,,22nd,22,NonPartisan,101,NEFTALIE GONZALEZ,,2317 S. Millard Ave.,,F,4,,2018-11-19T09:00:00,103,116,33928,,,,one,NonPartisan
+3289,12,0,0,200023,Ward,For Alderman 23rd Ward,,,23rd,23,NonPartisan,32,SILVANA TABARES,,5300 South Normandy Avenue,,F,1,,2018-11-19T09:00:00,28,116,33929,,,,one,NonPartisan
+3289,12,0,0,200023,Ward,For Alderman 23rd Ward,,,23rd,23,NonPartisan,120,"PAULINO R. VILLARREAL, JR.",,6824 West 64th Place,,F,2,,2018-11-19T15:12:00,0,116,33929,,,,one,NonPartisan
+3289,12,0,0,200023,Ward,For Alderman 23rd Ward,,,23rd,23,NonPartisan,142,CHARLES M. HUGHES,,5441 South Latrobe Avenue Garden Apt.,,*,3,,2018-11-26T10:55:00,0,667,33929,,,,one,NonPartisan
+3289,12,0,0,200023,Ward,For Alderman 23rd Ward,,,23rd,23,NonPartisan,187,BETSY JOVAN WATKINS,,3457 W. 66th Place,,*,4,,2018-11-26T17:00:00,9,667,33929,,,,one,NonPartisan
+3289,12,0,0,200023,Ward,For Alderman 23rd Ward,,,23rd,23,NonPartisan,241,RICHARD MAYERS,,6159 W 64th Place,,W,5,,2018-11-26T17:00:00,66,121,33929,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,5,CREATIVE SCOTT,,1858 South Avers Avenue,,*,1,,2018-11-19T09:00:00,2,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,41,"MICHAEL  SCOTT, JR.",,1632 South Albany Avenue,,*,2,,2018-11-19T09:00:00,19,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,147,TORIANO A. SANZONE,,1439 South Komensky Avenue,,*,3,,2018-11-26T12:03:00,0,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,227,EDWARD WARD,,935 S. Independence,,*,4,,2018-11-26T17:00:00,24,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,218,LARRY G. NELSON,,4327 West Roosevelt Road Apartment 2B,,*,5,,2018-11-26T17:00:00,67,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,192,(PAT) PATRICIA MARSHALL,,1215 South Troy Street,,*,6,,2018-11-26T17:00:00,46,667,33930,,,,one,NonPartisan
+3289,12,0,0,200024,Ward,For Alderman 24th Ward,,,24th,24,NonPartisan,199,"TRACI ""TREASURE"" JOHNSON",,3311 West Flournoy Street,,*,7,,2018-11-26T17:00:00,13,667,33930,,,,one,NonPartisan
+3289,12,0,0,200025,Ward,For Alderman 25th Ward,,,25th,25,NonPartisan,80,HILARIO DOMINGUEZ,,2020 South May St.,,F,1,,2018-11-19T09:00:00,58,116,33931,,,,one,NonPartisan
+3289,12,0,0,200025,Ward,For Alderman 25th Ward,,,25th,25,NonPartisan,78,"ALEXANDER ""ALEX"" ACEVEDO",,"2520 South Oakley Avenue, #302",,F,2,,2018-11-19T09:00:00,53,116,33931,,,,one,NonPartisan
+3289,12,0,0,200025,Ward,For Alderman 25th Ward,,,25th,25,NonPartisan,73,TROY ANTONIO HERNANDEZ,,1413 West 16th Street,,F,3,,2018-11-19T09:00:00,107,116,33931,,,,one,NonPartisan
+3289,12,0,0,200025,Ward,For Alderman 25th Ward,,,25th,25,NonPartisan,68,BYRON SIGCHO-LOPEZ,,1813 S. Carpenter St.,,*,4,,2018-11-19T09:00:00,77,667,33931,,,,one,NonPartisan
+3289,12,0,0,200025,Ward,For Alderman 25th Ward,,,25th,25,NonPartisan,59,AIDA FLORES,,1633 South Carpenter.,,F,5,,2018-11-19T09:00:00,7,116,33931,,,,one,NonPartisan
+3289,12,0,0,200026,Ward,For Alderman 26th Ward,,,26th,26,NonPartisan,107,THERESA SIAW,,3516 W. Hirsch Street,,*,1,,2018-11-19T09:00:00,74,667,33932,,,,one,NonPartisan
+3289,12,0,0,200026,Ward,For Alderman 26th Ward,,,26th,26,NonPartisan,33,ROBERTO MALDONADO,,1725 North Troy Street,,F,2,,2018-11-19T09:00:00,41,116,33932,,,,one,NonPartisan
+3289,12,0,0,200026,Ward,For Alderman 26th Ward,,,26th,26,NonPartisan,193,DAVID HERRERA,,"2455 W. Ohio Street, #15W",,*,3,,2018-11-26T17:00:00,4,667,33932,,,,one,NonPartisan
+3289,12,0,0,200026,Ward,For Alderman 26th Ward,,,26th,26,NonPartisan,234,ANGEE GONZALEZ,,3314 West Pierce Avenue,,*,4,,2018-11-26T17:00:00,54,667,33932,,,,one,NonPartisan
+3289,12,0,0,200026,Ward,For Alderman 26th Ward,,,26th,26,NonPartisan,223,"MIRKO ""LIMO MIKE Z."" ZAPLATIC JR.",,2659 West Chicago Avenue,,*,5,,2018-11-26T17:00:00,58,667,33932,,,,one,NonPartisan
+3289,12,0,0,200027,Ward,For Alderman 27th Ward,,,27th,27,NonPartisan,28,"WALTER BURNETT, JR.",,1648 West Warren Boulevard,,F,1,,2018-11-19T09:00:00,30,116,33933,,,,one,NonPartisan
+3289,12,0,0,200027,Ward,For Alderman 27th Ward,,,27th,27,NonPartisan,186,CYNTHIA D. BEDNARZ,,2724 W. Washington Blvd.,,*,2,,2018-11-26T17:00:00,14,667,33933,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,46,MIGUEL BAUTISTA,,"2457 W. Greenshaw St., Apt. 2",,*,1,,2018-11-19T09:00:00,10,667,33934,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,70,JASON C. ERVIN,,3323 W. Jackson Boulevard,,F,2,,2018-11-19T09:00:00,106,116,33934,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,128,JASMINE JACKSON,,2715 West Polk Street,,*,3,,2018-11-24T09:31:00,0,667,33934,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,171,THERESA RAYFORD,,4658 W. West End Avenue,,*,4,,2018-11-26T15:52:00,0,667,33934,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,204,BEVERLY MILES,,4445 West Washington Boulevard Apt. 1,,*,5,,2018-11-26T17:00:00,49,667,33934,,,,one,NonPartisan
+3289,12,0,0,200028,Ward,For Alderman 28th Ward,,,28th,28,NonPartisan,236,JUSTINA L. WINFREY,,4830 W. Quincy,,*,6,,2018-11-26T17:00:00,0,667,33934,,,,one,NonPartisan
+3289,12,0,0,200029,Ward,For Alderman 29th Ward,,,29th,29,NonPartisan,21,DWAYNE TRUSS,,1351 N. Waller Ave.,,*,1,,2018-11-19T09:00:00,11,667,33935,,,,one,NonPartisan
+3289,12,0,0,200029,Ward,For Alderman 29th Ward,,,29th,29,NonPartisan,71,CHRIS TALIAFERRO,,3128 N. Octavia Ave.,,*,2,,2018-11-19T09:00:00,99,667,33935,,,,one,NonPartisan
+3289,12,0,0,200029,Ward,For Alderman 29th Ward,,,29th,29,NonPartisan,123,GAYINGA WASHINGTON,,5423 W. Quincy Avenue,,*,3,,2018-11-20T14:31:00,0,667,33935,,,,one,NonPartisan
+3289,12,0,0,200029,Ward,For Alderman 29th Ward,,,29th,29,NonPartisan,201,ZERLINA A. SMITH,,5300 West Quincy Street,,*,5,,2018-11-26T17:00:00,8,667,33935,,,,one,NonPartisan
+3289,12,0,0,200030,Ward,For Alderman 30th Ward,,,30th,30,NonPartisan,42,JESSICA W. GUTIERREZ,,4119 West Melrose Street Basement,,F,1,,2018-11-19T09:00:00,49,116,33936,,,,one,NonPartisan
+3289,12,0,0,200030,Ward,For Alderman 30th Ward,,,30th,30,NonPartisan,9,ARIEL E. REBOYRAS,,2654 North Parkside Avenue,,F,2,,2018-11-19T09:00:00,34,116,33936,,,,one,NonPartisan
+3289,12,0,0,200030,Ward,For Alderman 30th Ward,,,30th,30,NonPartisan,149,"EDGAR ""EDEK"" ESPARZA",,5400 W. Schubert Ave.,,F,3,,2018-11-26T12:56:00,0,116,33936,,,,one,NonPartisan
+3289,12,0,0,200031,Ward,For Alderman 31st Ward,,,31st,31,NonPartisan,108,COLIN BIRD-MARTINEZ,,"2447 N. Kildare Ave., #1",,F,1,,2018-11-19T09:00:00,87,116,33937,,,,one,NonPartisan
+3289,12,0,0,200031,Ward,For Alderman 31st Ward,,,31st,31,NonPartisan,57,"MILAGROS ""MILLY"" SANTIAGO",,3030 North Kolmar Avenue,,F,2,,2018-11-19T09:00:00,65,116,33937,,,,one,NonPartisan
+3289,12,0,0,200031,Ward,For Alderman 31st Ward,,,31st,31,NonPartisan,29,FELIX CARDONA JR.,,5232 W. Wolfram Street,,F,3,,2018-11-19T09:00:00,21,116,33937,,,,one,NonPartisan
+3289,12,0,0,200031,Ward,For Alderman 31st Ward,,,31st,31,NonPartisan,166,"RENNÉ ""TEX"" CHAVEZ",,4424 W. Parker Avenue,,*,4,,2018-11-26T14:15:00,0,667,33937,,,,one,NonPartisan
+3289,12,0,0,200032,Ward,For Alderman 32nd Ward,,,32nd,32,NonPartisan,122,SCOTT WAGUESPACK,,1939 N. Wilmot Ave.,,F,1,,2018-11-20T13:00:00,0,116,33938,,,,one,NonPartisan
+3289,12,0,0,200033,Ward,For Alderman 33rd Ward,,,33rd,33,NonPartisan,94,KATIE SIERACKI,,4553 N. Bernard St.,,F,1,,2018-11-19T09:00:00,62,116,33939,,,,one,NonPartisan
+3289,12,0,0,200033,Ward,For Alderman 33rd Ward,,,33rd,33,NonPartisan,23,ROSSANA RODRIGUEZ SANCHEZ,,"4907 N. Lawndale Ave., Apt. 3",,F,2,,2018-11-19T09:00:00,15,116,33939,,,,one,NonPartisan
+3289,12,0,0,200033,Ward,For Alderman 33rd Ward,,,33rd,33,NonPartisan,27,DEBORAH L. MELL,,2656 West Melrose Street,,F,3,,2018-11-19T09:00:00,32,116,33939,,,,one,NonPartisan
+3289,12,0,0,200033,Ward,For Alderman 33rd Ward,,,33rd,33,NonPartisan,242,JOEL ZAWKO,,3045 N. California Ave.,,*,4,,2018-11-26T15:13:00,0,667,33939,,,,one,NonPartisan
+3289,12,0,0,200034,Ward,For Alderman 34th Ward,,,34th,34,NonPartisan,3,CARRIE M. AUSTIN,,500 West 111th Street,,F,1,,2018-11-19T09:00:00,5,116,33940,,,,one,NonPartisan
+3289,12,0,0,200034,Ward,For Alderman 34th Ward,,,34th,34,NonPartisan,148,PRESTON BROWN JR,,10501 S. Martin Street,,F,2,,2018-11-26T13:03:00,0,116,33940,,,,one,NonPartisan
+3289,12,0,0,200035,Ward,For Alderman 35th Ward,,,35th,35,NonPartisan,38,AMANDA YU DIETERICH,,2627 N. Drake,,F,1,,2018-11-19T09:00:00,50,116,33941,,,,one,NonPartisan
+3289,12,0,0,200035,Ward,For Alderman 35th Ward,,,35th,35,NonPartisan,66,CARLOS  RAMIREZ-ROSA,,3138 N. Bernard St.,,F,2,,2018-11-19T09:00:00,109,116,33941,,,,one,NonPartisan
+3289,12,0,0,200035,Ward,For Alderman 35th Ward,,,35th,35,NonPartisan,163,WALTER ZARNECKI,,2707 North Drake Avenue,,*,3,,2018-11-26T14:07:00,0,667,33941,,,,one,NonPartisan
+3289,12,0,0,200035,Ward,For Alderman 35th Ward,,,35th,35,NonPartisan,161,MAYRA GONZALEZ,,3431 W Melrose,,*,4,,2018-11-26T14:44:00,0,667,33941,,,,one,NonPartisan
+3289,12,0,0,200036,Ward,For Alderman 36th Ward,,,36th,36,NonPartisan,61,GILBERT VILLEGAS,,3225 North Newland Avenue,,F,1,,2018-11-19T09:00:00,79,116,33942,,,,one,NonPartisan
+3289,12,0,0,200037,Ward,For Alderman 37th Ward,,,37th,37,NonPartisan,6,EMMA M. MITTS,,4942 W. Rice Street,,F,1,,2018-11-19T09:00:00,18,116,33943,,,,one,NonPartisan
+3289,12,0,0,200037,Ward,For Alderman 37th Ward,,,37th,37,NonPartisan,184,TARA STAMPS,,634 North Long Ave.,,*,2,,2018-11-26T17:00:00,3,667,33943,,,,one,NonPartisan
+3289,12,0,0,200037,Ward,For Alderman 37th Ward,,,37th,37,NonPartisan,230,OTIS PERCY,,1105 N. Springfield Ave.,,*,3,,2018-11-26T17:00:00,68,667,33943,,,,one,NonPartisan
+3289,12,0,0,200037,Ward,For Alderman 37th Ward,,,37th,37,NonPartisan,207,DEONDRE RUTUES,,1610 North Luna Avenue,,*,4,,2018-11-26T17:00:00,63,667,33943,,,,one,NonPartisan
+3289,12,0,0,200038,Ward,For Alderman 38th Ward,,,38th,38,NonPartisan,115,NICHOLAS SPOSATO,,4608 N. Forestview Ave.,,F,1,,2018-11-19T09:00:00,97,116,33944,,,,one,NonPartisan
+3289,12,0,0,200038,Ward,For Alderman 38th Ward,,,38th,38,NonPartisan,156,RALPH PAWLIKOWSKI,,3628 North Pontiac Avenue,,*,2,,2018-11-26T13:44:00,0,667,33944,,,,one,NonPartisan
+3289,12,0,0,200039,Ward,For Alderman 39th Ward,,,39th,39,NonPartisan,104,ROBERT MURPHY,,4864 West Berwyn Ave.,,F,1,,2018-11-19T09:00:00,101,116,33945,,,,one,NonPartisan
+3289,12,0,0,200039,Ward,For Alderman 39th Ward,,,39th,39,NonPartisan,90,"SAMANTHA ""SAM"" NUGENT",,6121 North Forest Glen Avenue,,F,2,,2018-11-19T09:00:00,71,116,33945,,,,one,NonPartisan
+3289,12,0,0,200039,Ward,For Alderman 39th Ward,,,39th,39,NonPartisan,44,JEFFREY S. LA PORTE,,6143 N. Moody Ave.,,F,3,,2018-11-19T09:00:00,39,116,33945,,,,one,NonPartisan
+3289,12,0,0,200039,Ward,For Alderman 39th Ward,,,39th,39,NonPartisan,233,CASEY SMAGALA,,4855 N. Springfield Ave. Unit 3,,F,4,,2018-11-26T17:00:00,19,116,33945,,,,one,NonPartisan
+3289,12,0,0,200039,Ward,For Alderman 39th Ward,,,39th,39,NonPartisan,181,JOE DUPLECHIN,,5904 N. Leonard Ave.,,F,5,,2018-11-26T17:00:00,6,116,33945,,,,one,NonPartisan
+3289,12,0,0,200040,Ward,For Alderman 40th Ward,,,40th,40,NonPartisan,106,UGO OKERE,,5749 N. Sacramento Ave,,F,1,,2018-11-19T09:00:00,108,116,33946,,,,one,NonPartisan
+3289,12,0,0,200040,Ward,For Alderman 40th Ward,,,40th,40,NonPartisan,89,DIANNE DALEIDEN,,5550 N. Paulina St.,,F,2,,2018-11-19T09:00:00,67,116,33946,,,,one,NonPartisan
+3289,12,0,0,200040,Ward,For Alderman 40th Ward,,,40th,40,NonPartisan,96,ANDRÉ VASQUEZ,,6115 N. Ravenswood Ave.,,F,3,,2018-11-19T09:00:00,93,116,33946,,,,one,NonPartisan
+3289,12,0,0,200040,Ward,For Alderman 40th Ward,,,40th,40,NonPartisan,43,PATRICK J. O'CONNOR,,2930 W. Catalpa Avenue,,F,4,,2018-11-19T09:00:00,45,116,33946,,,,one,NonPartisan
+3289,12,0,0,200040,Ward,For Alderman 40th Ward,,,40th,40,NonPartisan,130,MAGGIE O'KEEFE,,"4816 N. California Ave., #2",,F,5,,2018-11-24T13:08:00,0,116,33946,,,,one,NonPartisan
+3289,12,0,0,200041,Ward,For Alderman 41st Ward,,,41st,41,NonPartisan,50,TIM HENEGHAN,,6605 N. Oconto Avenue,,F,1,,2018-11-19T09:00:00,51,116,33947,,,,one,NonPartisan
+3289,12,0,0,200041,Ward,For Alderman 41st Ward,,,41st,41,NonPartisan,49,ANTHONY V. NAPOLITANO,,7321 W. Greenleaf Ave.,,F,2,,2018-11-19T09:00:00,63,116,33947,,,,one,NonPartisan
+3289,12,0,0,200042,Ward,For Alderman 42nd Ward,,,42nd,42,NonPartisan,17,BRENDAN REILLY,,222 West Erie Street,,F,1,,2018-11-19T09:00:00,20,116,33948,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,58,DEREK LINDBLOM,,1232 W. Draper Street,,F,1,,2018-11-19T09:00:00,72,116,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,56,MICHELE SMITH,,1627 North Vine Street,,F,2,,2018-11-19T09:00:00,73,116,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,87,LESLIE FOX,,2124 N. Cleveland Avenue,,F,3,,2018-11-19T09:00:00,85,116,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,116,JACOB RINGER,,614 W. Willow St.,,F,4,,2018-11-19T09:00:00,98,116,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,151,MATTHEW RONEY,,"2432 N. Lincoln Ave., Apt #4",,*,5,,2018-11-26T13:35:00,0,667,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,237,STEVEN MCCLELLAN,,1800 North Hudson Avenue Unit 2F,,*,6,,2018-11-26T17:00:00,62,667,33949,,,,one,NonPartisan
+3289,12,0,0,200043,Ward,For Alderman 43rd Ward,,,43rd,43,NonPartisan,173,REBECCA JANOWITZ,,"1 East Schiller Street, 19A",,*,7,,2018-11-26T17:00:00,22,667,33949,,,,one,NonPartisan
+3289,12,0,0,200044,Ward,For Alderman 44th Ward,,,44th,44,NonPartisan,24,PATRICK SHINE,,3821 N. Lakewood Ave. Apt. G,,*,1,,2018-11-19T09:00:00,43,667,33950,,,,one,NonPartisan
+3289,12,0,0,200044,Ward,For Alderman 44th Ward,,,44th,44,NonPartisan,26,TOM TUNNEY,,330 West Diversey Parkway,,F,2,,2018-11-19T09:00:00,17,116,33950,,,,one,NonPartisan
+3289,12,0,0,200044,Ward,For Alderman 44th Ward,,,44th,44,NonPartisan,52,AUSTIN BAIDAS,,800 W. Cornelia Ave. #400,,*,3,,2018-11-19T09:00:00,69,667,33950,,,,one,NonPartisan
+3289,12,0,0,200044,Ward,For Alderman 44th Ward,,,44th,44,NonPartisan,176,ELIZABETH SHYDLOWSKI,,"632 W. Wellington Avenue, #1W",,*,4,,2018-11-26T17:00:00,5,667,33950,,,,one,NonPartisan
+3289,12,0,0,200045,Ward,For Alderman 45th Ward,,,45th,45,NonPartisan,40,MARILYN MORALES,,5359 W. Winona Street,,F,1,,2018-11-19T09:00:00,37,116,33951,,,,one,NonPartisan
+3289,12,0,0,200045,Ward,For Alderman 45th Ward,,,45th,45,NonPartisan,67,JOHN S. ARENA,,4137 N. LeClaire Ave.,,*,2,,2018-11-19T09:00:00,57,667,33951,,,,one,NonPartisan
+3289,12,0,0,200045,Ward,For Alderman 45th Ward,,,45th,45,NonPartisan,34,"JAMES ""JIM"" GARDINER",,5941 North Mobile Avenue,,F,3,,2018-11-19T09:00:00,40,116,33951,,,,one,NonPartisan
+3289,12,0,0,200045,Ward,For Alderman 45th Ward,,,45th,45,NonPartisan,180,ROBERT A. BANK,,5506 N. Lotus Ave.,,F,4,,2018-11-26T17:00:00,12,116,33951,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,25,MARIANNE LALONDE,,903 W. Lawrence Ave. #2E,,F,1,,2018-11-19T09:00:00,35,116,33952,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,47,ERIKA WOZNIAK FRANCIS,,"937 W. Sunnyside Ave., #2E",,F,2,,2018-11-19T09:00:00,86,116,33952,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,91,JUSTIN KREINDLER,,733 W. Waveland Ave,,*,3,,2018-11-19T09:00:00,96,667,33952,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,55,JAMES CAPPLEMAN,,4727 N. Kenmore Avenue #1,,F,4,,2018-11-19T09:00:00,83,116,33952,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,198,ANGELA CLAY,,4509 N. Hazel Street,,*,5,,2018-11-26T17:00:00,27,667,33952,,,,one,NonPartisan
+3289,12,0,0,200046,Ward,For Alderman 46th Ward,,,46th,46,NonPartisan,212,JON-ROBERT MCDOWELL,,"4210 N. Kenmore Ave., Apt. 1D",,*,6,,2018-11-26T17:00:00,29,667,33952,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,86,EILEEN DORDEK,,2154 W. Windsor Avenue,,F,1,,2018-11-19T09:00:00,80,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,76,"ANGELA ""ANGIE"" MALONEY",,4606 N. Damen #1,,F,2,,2018-11-19T09:00:00,100,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,54,HEATHER WAY KITZES,,4916 N. Hermitage Ave.,,F,3,,2018-11-19T09:00:00,47,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,53,MICHAEL A. NEGRON,,2253 West Cullom Avenue,,F,4,,2018-11-19T09:00:00,60,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,82,MATT MARTIN,,2011 W. Eastwood Ave.,,F,5,,2018-11-19T09:00:00,56,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,113,GUS KATSAFAROS,,"4315 N. Damen Ave., Unit 3",,F,6,,2018-11-19T09:00:00,84,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,117,THOMAS M. SCHWARTZERS,,1431 West Cuyler 3R,,F,7,,2018-11-19T09:00:00,70,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,200,KIMBALL LADIEN,,1732 W. School Street.,,F,8,,2018-11-26T17:00:00,47,116,33953,,,,one,NonPartisan
+3289,12,0,0,200047,Ward,For Alderman 47th Ward,,,47th,47,NonPartisan,177,JEFF JENKINS,,2233 W. Cullom Ave.,,F,9,,2018-11-26T17:00:00,31,116,33953,,,,one,NonPartisan
+3289,12,0,0,200048,Ward,For Alderman 48th Ward,,,48th,48,NonPartisan,100,HARRY OSTERMAN,,1249 W. Norwood Street,,F,1,,2018-11-19T09:00:00,76,116,33954,,,,one,NonPartisan
+3289,12,0,0,200048,Ward,For Alderman 48th Ward,,,48th,48,NonPartisan,182,DAVID EARL WILLIAMS III,,1055 West Granville Ave. Apt 703,,F,2,,2018-11-26T17:00:00,41,116,33954,,,,one,NonPartisan
+3289,12,0,0,200049,Ward,For Alderman 49th Ward,,,49th,49,NonPartisan,88,JOE MOORE,,"1200 W. Sherwin Avenue, Unit L-O",,F,1,,2018-11-19T09:00:00,81,116,33955,,,,one,NonPartisan
+3289,12,0,0,200049,Ward,For Alderman 49th Ward,,,49th,49,NonPartisan,37,MARIA HADDEN,,"6807 N. Ashland Ave., Unit GN",,F,2,,2018-11-19T09:00:00,44,116,33955,,,,one,NonPartisan
+3289,12,0,0,200049,Ward,For Alderman 49th Ward,,,49th,49,NonPartisan,226,NATHAN BENJAMIN MYERS,,1102 W. North Shore Avenue,,*,3,,2018-11-26T17:00:00,48,667,33955,,,,one,NonPartisan
+3289,12,0,0,200049,Ward,For Alderman 49th Ward,,,49th,49,NonPartisan,208,BILL MORTON,,6902 N. Glenwood Avenue,,*,4,,2018-11-26T17:00:00,64,667,33955,,,,one,NonPartisan
+3289,12,0,0,200050,Ward,For Alderman 50th Ward,,,50th,50,NonPartisan,62,DEBRA L. SILVERSTEIN,,2916 W. Jarvis Avenue,,F,1,,2018-11-19T09:00:00,64,116,33956,,,,one,NonPartisan
+3289,12,0,0,200050,Ward,For Alderman 50th Ward,,,50th,50,NonPartisan,111,ANDREW D ROWLAS,,2328 West Farwell Avenue Unit 1,,F,2,,2018-11-19T09:00:00,68,116,33956,,,,one,NonPartisan
+3289,12,0,0,200050,Ward,For Alderman 50th Ward,,,50th,50,NonPartisan,195,ZEHRA QUADRI,,"2414 W. Devon Avenue, Unit 311",,*,3,,2018-11-26T17:00:00,25,667,33956,,,,one,NonPartisan
+3289,12,0,0,200050,Ward,For Alderman 50th Ward,,,50th,50,NonPartisan,210,MAJID MUSTAFA,,"7033 N. Kedzie Ave., #112",,*,4,,2018-11-26T17:00:00,30,667,33956,,,,one,NonPartisan
